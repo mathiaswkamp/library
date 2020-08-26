@@ -2,7 +2,6 @@
 
 namespace bibliotek
 {
-
     /// <summary>
     /// Denne klasse har en metode renderMenu() som udskriver min menu
     /// </summary>
@@ -10,7 +9,6 @@ namespace bibliotek
     {
         public void renderMenu()
         {
-           
             Console.WriteLine("=============================================");
             Console.WriteLine("                   library                   ");
             Console.WriteLine("=============================================");
@@ -21,6 +19,5 @@ namespace bibliotek
             Console.WriteLine("4. Complete loan");
             Console.WriteLine("5. Exit");
         }
-    
     }
 }
